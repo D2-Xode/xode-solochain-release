@@ -12,9 +12,9 @@ Prebuilt binaries and chain specs for the XODE Solochain node. Download them fro
 ## Quick start
 
 ```bash
-curl -LO https://github.com/D2-Xode/xode-solochain-release/releases/download/v0.1.0/xode-solochain-node
-curl -LO https://github.com/D2-Xode/xode-solochain-release/releases/download/v0.1.0/xode-mainnet-raw.json
-curl -LO https://github.com/D2-Xode/xode-solochain-release/releases/download/v0.1.0/SHA256SUMS
+curl -LO https://github.com/D2-Xode/xode-solochain-release/releases/download/v0.1.1/xode-solochain-node
+curl -LO https://github.com/D2-Xode/xode-solochain-release/releases/download/v0.1.1/xode-mainnet-raw.json
+curl -LO https://github.com/D2-Xode/xode-solochain-release/releases/download/v0.1.1/SHA256SUMS
 sha256sum -c SHA256SUMS
 chmod +x xode-solochain-node
 
